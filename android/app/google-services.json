@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "249323237418",
+    "firebase_url": "https://attendance-app-0205.firebaseio.com",
+    "project_id": "attendance-app-0205",
+    "storage_bucket": "attendance-app-0205.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249323237418:android:eece3ba5605d9f88",
+        "android_client_info": {
+          "package_name": "com.attendansee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249323237418-sqbf75k3r0453hil0556qt5q485r4nd5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCGro_9gVZsE8caT8n0Pnjsr7kolIoLn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249323237418-sqbf75k3r0453hil0556qt5q485r4nd5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "249323237418-gqrkge2200o9u5jebt43le3il70oht5h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.airattend"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
